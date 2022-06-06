@@ -4,6 +4,8 @@ Use Microsoft Defender for Cloud, for Azure, hybrid cloud, and on-premises workl
 ```
 This learning path helps prepare you for [Exam SC-200: Microsoft Security Operations Analyst.](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-200)
 
+[Plan for cloud workload protections using Microsoft Defender for Cloud - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/what-is-azure-defender/)
+
 ### Check your knowledge
 1. Which of the following describe Microsoft Defender for Cloud's primary role?
 - [ ] Cloud security facilitation
@@ -19,3 +21,24 @@ This learning path helps prepare you for [Exam SC-200: Microsoft Security Operat
 - [x] Automatic provisioning `Correct. Automatic provisioning will install the required agent for the resources.`
 - [ ] Continuous assessments
 - [ ] Coverage type
+
+[Explain cloud workload protections in Microsoft Defender for Cloud - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/understand-azure-defender-cloud-workload-protection/)
+
+### Check your knowledge
+1. What is a protection provided by Microsoft Defender for DNS?
+- [x] Malware communicating with C&C server
+`Correct. Command and Control detection over DNS is detected.`
+- [ ] Malware encrypting data on a Device
+- [ ] Malware enumerating user on a Device
+
+2. Microsoft Defender for Containers does which of the following?
+- [ ] Environmental hardening, Vulnerability assessment, and endpoint management
+- [ ] Environmental hardening, User risk management, and Run-time threat protection
+- [x] Environmental hardening, Vulnerability assessment, and Run-time threat protection
+`Correct. It performs all three of these services.`
+
+3. Which feature of Microsoft Defender for Servers examines files and registries of the operating system, application software, and others for changes that might indicate an attack?
+- [ ] Adaptive application controls
+- [ ] Adaptive network hardening
+- [x] File integrity monitoring
+`Correct. File integrity monitoring examines files.`
