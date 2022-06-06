@@ -75,3 +75,6 @@ This learning path helps prepare you for [Exam SC-200: Microsoft Security Operat
 `Correct. Policy Add-on for Kubernetes is an extension.`
 - [ ] Windows Events
 - [ ] Policy for Azure Policy
+
+[Connect non-Azure resources to Microsoft Defender for Cloud - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/connect-non-azure-machines-to-azure-defender/)
+
