@@ -99,3 +99,6 @@ This learning path helps prepare you for [Exam SC-200: Microsoft Security Operat
 
 `Correct. GCP has a cloud connector.`
 - [ ] Oracle
+
+[Remediate security alerts using Microsoft Defender for Cloud - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/)
+
