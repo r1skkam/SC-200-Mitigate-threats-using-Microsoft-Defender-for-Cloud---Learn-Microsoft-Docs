@@ -78,3 +78,24 @@ This learning path helps prepare you for [Exam SC-200: Microsoft Security Operat
 
 [Connect non-Azure resources to Microsoft Defender for Cloud - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/connect-non-azure-machines-to-azure-defender/)
 
+### Check your knowledge
+1. Which is an option to connect your non-Azure computers?
+- [ ] Windows Store
+- [x] Using Azure Arc enabled servers
+
+`Correct. Using Azure Arc enabled servers is an option to connect.`
+- [ ] From an Excel spreadsheet
+
+2. Which resource can Microsoft Defender for Cloud protect in a hybrid environment?
+- [ ] Word Documents
+- [x] SQL Databases
+
+`Correct. SQL Databases can be protected by Microsoft Defender for Cloud.`
+- [ ] Cosmos DB
+
+3. Which Cloud provider has a Cloud connector in Security Center?
+- [ ] IBM Cloud
+- [x] GCP
+
+`Correct. GCP has a cloud connector.`
+- [ ] Oracle
