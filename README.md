@@ -102,3 +102,29 @@ This learning path helps prepare you for [Exam SC-200: Microsoft Security Operat
 
 [Remediate security alerts using Microsoft Defender for Cloud - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/remediate-azure-defender-security-alerts/)
 
+### Check your knowledge
+1. Defender for Cloud employs which advanced security analytics?
+- [ ] Biometric analytics
+- [ ] Power BI
+- [x] Behavioral analytics
+
+`Correct. Behavior analytics is used to detect threats.`
+
+2. Which Azure technology is used to automate remediation?
+- [ ] Azure Functions
+- [ ] Azure Batch
+- [x] Azure Logic Apps
+
+`Correct. Logic Apps is the automation engine.`
+
+3. If available, which report provides Attackers tactics, tools, and procedures?
+- [x] Threat Intelligence
+
+`Correct. The threat intelligence report contains attacker information if available.`
+
+- [ ] Secure Score
+- [ ] Incident
+
+[Threat detection with Microsoft Sentinel analytics - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/analyze-data-in-sentinel/)
+
+### 
